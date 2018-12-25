@@ -306,7 +306,7 @@ askCode| String| 邀请码 | 是
 参数名 | 类型 | 含义 | 示例
 ---- | ---- | ---- | ----
 
-## 2.13 绑定推荐人邀请码
+## 2.13 修改绑定的手机号
 #### URL:   */api/account/changemobile*
 #### Method: *POST*
 #### 请求参数格式: *JSON: Map*
